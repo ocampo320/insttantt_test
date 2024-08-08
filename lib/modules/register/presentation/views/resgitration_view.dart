@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:insttantt_test/modules/register/register_provider.dart';
+import 'package:insttantt_test/modules/register/provider/register_provider.dart';
 import 'package:insttantt_test/shared/widgets/insttant_texfield_widget.dart';
 import 'package:provider/provider.dart';
 

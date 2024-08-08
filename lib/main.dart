@@ -6,7 +6,7 @@ import 'package:insttantt_test/modules/home/presentation/views/home_view.dart';
 import 'package:insttantt_test/modules/login/presentation/views/login_view.dart';
 import 'package:insttantt_test/modules/login/provider/login_provider.dart';
 import 'package:insttantt_test/modules/register/presentation/views/resgitration_view.dart';
-import 'package:insttantt_test/modules/register/register_provider.dart';
+import 'package:insttantt_test/modules/register/provider/register_provider.dart';
 import 'package:provider/provider.dart';
 
 void main() async {
