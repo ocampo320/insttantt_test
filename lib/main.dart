@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:insttantt_test/modules/contacts/provider/contacts_provider.dart';
-import 'package:insttantt_test/modules/contacts/provider/views/contacts_view.dart';
+import 'package:insttantt_test/modules/contacts/views/contacts_view.dart';
 import 'package:insttantt_test/modules/home/presentation/views/home_view.dart';
 import 'package:insttantt_test/modules/login/presentation/views/login_view.dart';
 import 'package:insttantt_test/modules/login/provider/login_provider.dart';

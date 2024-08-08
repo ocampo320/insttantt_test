@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:insttantt_test/modules/contacts/provider/contacts_provider.dart';
-import 'package:insttantt_test/modules/contacts/provider/views/add_contact_view.dart';
+import 'package:insttantt_test/modules/contacts/views/add_contact_view.dart';
 import 'package:provider/provider.dart';
 
 class ContactsView extends StatefulWidget {
